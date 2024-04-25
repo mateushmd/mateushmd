@@ -1,6 +1,6 @@
 # Olá 👋
 
-Sou Mateus, estudante de Informática.
+Sou Mateus, estudante de Ciência da Computação.
 
 ## 🧠 Habilidades 
 
