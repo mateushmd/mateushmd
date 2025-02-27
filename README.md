@@ -1,6 +1,6 @@
 # Hello 👋
 
-I'm Mateus, a Computer Science student.
+I'm Mateus, a Computer Science student and a rather curious technology enthusiast.
 
 ## 🧠 Skills 
 
