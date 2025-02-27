@@ -11,18 +11,15 @@ I'm Mateus, a Computer Science student.
 ## 🔭 Current exploring
 
 - Low level programming and hardware
-  
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) 
-
 - Game development
-
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
 ## 📧 How to reach me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEUUSERNAME/) &nbsp; [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mateushmdiniz@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-diniz-b724882a4/) &nbsp; [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mateushmdiniz@gmail.com)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateushmd&layout=compact&rich%20text%20format)
+___
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mateuhmd&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 <!--
 **mateushmd/mateushmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
