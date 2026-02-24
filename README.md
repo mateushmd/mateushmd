@@ -1,9 +1,8 @@
-# Hello, I'm Mateus! 👋
-
-## Current Works
+# Hi, I'm Mateus! 👋
 
 - Researching parallel workloads in HPC environments
 - Working on [NARVI 🪐](https://github.com/cart-pucminas/narvi), a 64-bit RISC-V emulator
+- Interested in low level programming, hardware and game development
 
 ## Skills 
 
@@ -14,12 +13,6 @@
 ### Tools
 
 ![NixOS](https://img.shields.io/badge/NixOS-5277C3?logo=nixos&logoColor=white&style=for-the-badge) &nbsp; ![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=white&style=for-the-badge) &nbsp; ![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white&style=for-the-badge)
-
-## Interests
-
-- Low level programming
-- Hardware
-- Game development
 
 ## Contact
 
